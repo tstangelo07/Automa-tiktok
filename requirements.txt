@@ -1,0 +1,9 @@
+moviepy==1.0.3
+requests
+python-dotenv
+psycopg2-binary
+anthropic
+elevenlabs
+Pillow
+httpx
+schedule

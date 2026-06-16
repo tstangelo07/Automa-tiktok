@@ -1,0 +1,97 @@
+{
+  "account": "genalternance",
+  "trend": "Les entreprises rejettent les CV sans expérience même pour les alternances",
+  "model": "claude-haiku-4-5-20251001",
+  "usage": {
+    "input_tokens": 425,
+    "output_tokens": 762,
+    "cost_eur_estimate": 0.00098
+  },
+  "scripts": [
+    {
+      "id": 1,
+      "hook": "Les entreprises veulent de l'expérience même en alternance?",
+      "corps": "C'est vrai, mais voici le secret: l'expérience c'est pas juste le boulot. Tes projets scolaires, tes stages d'été, tes projets perso, tes bénévolats = expérience aussi. On vous montre comment valoriser TOUT ça dans ton CV pour décrocher ta première alternance chez Rush School.",
+      "cta": "Suis-nous pour la vidéo complète du CV gagnant!",
+      "hashtags": [
+        "#Alternance",
+        "#CV",
+        "#RushSchool",
+        "#Formation"
+      ],
+      "duree_estimee": "45s",
+      "angle": "Démystifier le mythe de l'expérience en montrant que les étudiants en ont déjà, ils ne le savent juste pas.",
+      "score": 10,
+      "score_details": [
+        "Hook excellent (8 mots) +4",
+        "Corps idéal (3 phrases) +3",
+        "CTA + hashtags OK +3"
+      ],
+      "approved": true
+    },
+    {
+      "id": 2,
+      "hook": "Zéro expérience = pas d'alternance. FAUX.",
+      "corps": "J'ai accompagné 100+ alternants et aucun n'avait d'expérience professionnelle avant. Ce qu'on regarde vraiment: ta motivation, tes soft skills et comment tu les montres. Un CV avec un projet perso bien présenté > 10 lignes vides. Rush School t'apprend à valoriser ce que t'as VRAIMENT.",
+      "cta": "Partage ce post aux potes bloqués sur leur CV!",
+      "hashtags": [
+        "#AlternanceEntreprises",
+        "#ConseilsCV",
+        "#16-25ans",
+        "#RushSchool"
+      ],
+      "duree_estimee": "50s",
+      "angle": "Témoignage rassurant d'un expert qui casse le mythe avec des faits concrets.",
+      "score": 10,
+      "score_details": [
+        "Hook excellent (6 mots) +4",
+        "Corps idéal (4 phrases) +3",
+        "CTA + hashtags OK +3"
+      ],
+      "approved": true
+    },
+    {
+      "id": 3,
+      "hook": "Pas d'expérience? Regarde ce que les entreprises veulent VRAIMENT.",
+      "corps": "Spoiler: c'est pas 10 ans d'expérience. C'est quelqu'un de fiable, motivé et curieux. Fais des projets (même tout seul), engage-toi dans un truc, apprends une skill. Les entreprises voient ça sur ton profil, ton GitHub, ton portfolio. Voilà pourquoi Rush School te fait construire ça en parallèle de ta formation.",
+      "cta": "Commente: qu'est-ce que TU fais pour montrer ton expérience?",
+      "hashtags": [
+        "#EntreprisesCherchent",
+        "#Alternance2024",
+        "#SkillsMatters",
+        "#RushSchool"
+      ],
+      "duree_estimee": "55s",
+      "angle": "Angle pédagogique qui explique les critères réels des recruteurs et propose des actions concrètes.",
+      "score": 9,
+      "score_details": [
+        "Hook bon (9 mots) +3",
+        "Corps idéal (5 phrases) +3",
+        "CTA + hashtags OK +3"
+      ],
+      "approved": true
+    }
+  ],
+  "best_script": {
+    "id": 1,
+    "hook": "Les entreprises veulent de l'expérience même en alternance?",
+    "corps": "C'est vrai, mais voici le secret: l'expérience c'est pas juste le boulot. Tes projets scolaires, tes stages d'été, tes projets perso, tes bénévolats = expérience aussi. On vous montre comment valoriser TOUT ça dans ton CV pour décrocher ta première alternance chez Rush School.",
+    "cta": "Suis-nous pour la vidéo complète du CV gagnant!",
+    "hashtags": [
+      "#Alternance",
+      "#CV",
+      "#RushSchool",
+      "#Formation"
+    ],
+    "duree_estimee": "45s",
+    "angle": "Démystifier le mythe de l'expérience en montrant que les étudiants en ont déjà, ils ne le savent juste pas.",
+    "score": 10,
+    "score_details": [
+      "Hook excellent (8 mots) +4",
+      "Corps idéal (3 phrases) +3",
+      "CTA + hashtags OK +3"
+    ],
+    "approved": true
+  },
+  "approved_count": 3
+}

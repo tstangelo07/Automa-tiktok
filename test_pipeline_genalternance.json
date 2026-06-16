@@ -1,0 +1,31 @@
+{
+  "account": "genalternance",
+  "status": "ideation_done",
+  "started_at": "2026-05-19T14:29:52.773857",
+  "trend": "Les alternance que personne ne te dit",
+  "best_script": {
+    "id": 2,
+    "hook": "Les entreprises recherchent les alternants MAINTENANT",
+    "corps": "Fun fact : 90% des alternants signent un CDI chez leur employeur après. Les boîtes veulent vous garder, c'est ça que personne dit. Pendant votre alternance, vous prouvez vos skills en vrai, pas sur un CV. C'est comme un stage payé de 2 ans où tu te fais tester. Rush School prépare les gens à cette réalité.",
+    "cta": "Suis pour découvrir les secteurs qui recrutent le plus en 2025!",
+    "hashtags": [
+      "#AlternanceEmploi",
+      "#CDI",
+      "#RushSchool",
+      "#OpportunitéJeune"
+    ],
+    "duree_estimee": "45s",
+    "angle": "Positionner l'alternance comme un tremplin direct vers l'emploi plutôt qu'une simple formation",
+    "score": 10,
+    "score_details": [
+      "Hook excellent (6 mots) +4",
+      "Corps idéal (5 phrases) +3",
+      "CTA + hashtags OK +3"
+    ],
+    "approved": true
+  },
+  "video_id": null,
+  "cost_eur": 0.00102,
+  "duration_seconds": 8,
+  "error": null
+}
